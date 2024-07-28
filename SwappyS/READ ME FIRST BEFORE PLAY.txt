@@ -1,0 +1,10 @@
+__________________________________________________________________________________WANT TO PLAY________________________________________________________________
+
+1.Download VS CODE in your pc.
+2.Open vscode.
+3.Click on open folder.
+4.Browse this folder named SwappyS.
+5.Click run Right top Corner in VS code.
+6.Enjoy the game.
+
+_______________________________________________________________________________BUILD IS IN PROGRESS___________________________________________________________
